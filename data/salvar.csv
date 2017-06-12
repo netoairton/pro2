@@ -1,0 +1,40 @@
+Tipo;Nome_Produto;Quantidade;Preço;Codigo_Barras;Opcoes_extras;Fornecedor;Cnpj
+Tipo: Bebida   Nome: cerveja   Quantidade: 3 unidades
+Preco unitario: R$2.55   Codigo de Barras: 4644464614
+Porcentagem de Alcool: 4.3%	Açúcar: 25.7mg
+Fornecedor: Fulano   Cnpj do fornecedor: 41212
+Validade: 20/6/2017
+
+Tipo: Salgado   Nome: empada   Quantidade: 100 unidades
+Preco unitario: R$4.99   Codigo de Barras: 164684468
+Sodio: 30mg, Contem Gluten, Nao contem Lactose
+Fornecedor: Fornecedor   Cnpj do fornecedor: 78888
+Validade: 19/6/2017
+
+Tipo: Fruta   Nome: uva   Quantidade: 50 unidades
+Preco unitario: R$10.5   Codigo de Barras: 4464464
+Lote: nº42	Produzido em: 6/6/2016
+Fornecedor: Fornece SA   Cnpj do fornecedor: 4141
+Validade: 10/6/2017
+
+Tipo: Doce   Nome: bala   Quantidade: 666 unidades
+Preco unitario: R$6   Codigo de Barras: 8887878
+Açúcar: 90mg, Contem Gluten e Lactose
+Fornecedor: Fornece SA   Cnpj do fornecedor: 4141
+Validade: 9/6/2017
+
+Tipo: CD   Nome: The Wall   Quantidade: 5 unidades
+Preco unitario: R$29.9   Codigo de Barras: 991541
+Estilo: Rock	Artista: Pink Floyd
+Fornecedor: Fulano   Cnpj do fornecedor: 41212
+
+Tipo: DVD   Nome: Avatar   Quantidade: 20 unidades
+Preco unitario: R$39.9   Codigo de Barras: 124582
+Genero: Aventura	Duração: 160min
+Fornecedor: Fornecedor   Cnpj do fornecedor: 78888
+
+Tipo: Livro   Nome: Introducao a C++   Quantidade: 50 unidades
+Preco unitario: R$19.9   Codigo de Barras: 7812354
+Autor: Airton	Editora: Editora Brasil	Ano: 2018
+Fornecedor: Fulano   Cnpj do fornecedor: 41212
+
